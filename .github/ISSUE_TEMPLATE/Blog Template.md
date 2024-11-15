@@ -1,3 +1,11 @@
+---
+name: <Blog Template>
+about: <Insert description>
+title: ""
+labels: ""
+assignees: ""
+---
+
 # 📝 Blog Post Instructions
 
 Hi there! 👋 
