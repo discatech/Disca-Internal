@@ -1,3 +1,11 @@
+---
+name: <Discussion Reminder>
+about: <Insert description>
+title: ""
+labels: ""
+assignees: ""
+---
+
 # 🗣️ Team Discussion Reminder
 
 **Topic**: [Insert Topic Here]  
