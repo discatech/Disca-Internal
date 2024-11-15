@@ -1,3 +1,11 @@
+---
+name: <Insert name>
+about: <Insert description>
+title: ""
+labels: ""
+assignees: ""
+---
+
 # [Task Title]
 
 ## 📝 Task Description
