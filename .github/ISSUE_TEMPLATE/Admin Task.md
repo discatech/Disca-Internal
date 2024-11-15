@@ -1,5 +1,5 @@
 ---
-name: <Insert name>
+name: <Admin Task>
 about: <Insert description>
 title: ""
 labels: ""
