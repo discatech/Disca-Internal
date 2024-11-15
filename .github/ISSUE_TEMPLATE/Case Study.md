@@ -1,3 +1,11 @@
+---
+name: <Case Study Template>
+about: <Insert description>
+title: ""
+labels: ""
+assignees: ""
+---
+
 # 📝 Case Study Instructions
 
 Hi there! 👋 
